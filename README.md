@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CTimurSefergil
-- 👀 I’m interested in Math, Coding, Learning, Dreaming and Creating 
+- 👀 I’m interested in Dreaming and Creating 
 - 🌱 I’m currently learning Rust and I'm currently in my first year at university
 - 📫 How to reach me Gmail: sefergil29@gmail.com
 
